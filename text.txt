@@ -1,0 +1,7 @@
+"bcrypt": "^5.1.0", //It is used to ecrypt the password we enter while logging in
+"cors": "^2.8.5", // Cross Origin Resource Sharing, It is a mechanism by which a front end client cana make requests for resources to an edxternal backend server 
+Dotenv --> It loads environment variables from .env file
+
+Helmet --> Its an Javascript Library which helps to secure node js application by setting several Http headers
+
+Morgon--> It is Http logging library for node js;
