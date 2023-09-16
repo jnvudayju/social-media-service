@@ -1,0 +1,623 @@
+Sun, 27 Aug 2023 12:43:06 GMT | INFO | index.log | Backend server is running! | 
+Sun, 27 Aug 2023 12:44:07 GMT | INFO | index.log | Backend server is running! | 
+Sun, 27 Aug 2023 12:44:07 GMT | INFO | index.log | Backend server is running! | 
+Sun, 27 Aug 2023 12:44:10 GMT | INFO | index.log | Backend server is running! | 
+Sun, 27 Aug 2023 12:44:10 GMT | INFO | index.log | Backend server is running! | 
+Sun, 27 Aug 2023 12:44:14 GMT | INFO | index.log | Backend server is running! | 
+Sun, 27 Aug 2023 12:44:14 GMT | INFO | index.log | Backend server is running! | 
+Sun, 27 Aug 2023 12:45:04 GMT | INFO | index.log | Backend server is running! | data:undefined | 
+Sun, 27 Aug 2023 12:45:04 GMT | INFO | index.log | Backend server is running! | data:undefined | 
+Sun, 27 Aug 2023 12:45:07 GMT | INFO | index.log | Backend server is running! | data:undefined | 
+Sun, 27 Aug 2023 12:45:07 GMT | INFO | index.log | Backend server is running! | data:undefined | 
+Sun, 27 Aug 2023 12:45:10 GMT | INFO | index.log | Backend server is running! | data:{"abcd":"def"} | 
+Sun, 27 Aug 2023 12:45:10 GMT | INFO | index.log | Backend server is running! | data:{"abcd":"def"} | 
+Sun, 27 Aug 2023 12:45:21 GMT | INFO | index.log | Backend server is running! | data:{"abcd":"def"} | 
+Sun, 27 Aug 2023 12:45:21 GMT | INFO | index.log | Backend server is running! | data:{"abcd":"def"} | 
+Sun, 27 Aug 2023 12:45:21 GMT | INFO | index.log | Backend server is running! | data:{"abcd":"def"} | 
+Sun, 27 Aug 2023 12:45:21 GMT | INFO | index.log | Backend server is running! | data:{"abcd":"def"} | 
+Sun, 27 Aug 2023 12:45:36 GMT | INFO | index.log | Backend server is running! | data: {"abcd":"def"} | 
+Sun, 27 Aug 2023 12:45:36 GMT | INFO | index.log | Backend server is running! | data: {"abcd":"def"} | 
+Sun, 27 Aug 2023 12:45:52 GMT | INFO | index.log | Backend server is running!  data: {"abcd":"def"} | 
+Sun, 27 Aug 2023 12:45:52 GMT | INFO | index.log | Backend server is running!  data: {"abcd":"def"} | 
+Sun, 27 Aug 2023 12:45:52 GMT | INFO | index.log | Backend server is running!data: {"abcd":"def"} | 
+Sun, 27 Aug 2023 12:45:52 GMT | INFO | index.log | Backend server is running!data: {"abcd":"def"} | 
+Sun, 27 Aug 2023 12:46:04 GMT | INFO | index.log | Backend server is running!| data: {"abcd":"def"} | 
+Sun, 27 Aug 2023 12:46:04 GMT | INFO | index.log | Backend server is running!| data: {"abcd":"def"} | 
+Sun, 27 Aug 2023 12:46:05 GMT | INFO | index.log | Backend server is running! | data: {"abcd":"def"} | 
+Sun, 27 Aug 2023 12:46:05 GMT | INFO | index.log | Backend server is running! | data: {"abcd":"def"} | 
+Sun, 27 Aug 2023 12:46:13 GMT | INFO | index.log | Backend server is running! | data: {"abcd":"def"}
+Sun, 27 Aug 2023 12:46:13 GMT | INFO | index.log | Backend server is running! | data: {"abcd":"def"}
+2023-08-27T12:47:39.978Z | INFO | index.log | Backend server is running! | data: {"abcd":"def"}
+2023-08-27T12:47:39.978Z | INFO | index.log | Backend server is running! | data: {"abcd":"def"}
+2023-08-27T12:49:07.569Z | INFO | index.log | Backend server is running! | data: {"abcd":"def"}
+2023-08-27T12:49:07.569Z | INFO | index.log | Backend server is running! | data: {"abcd":"def"}
+2023-08-27T12:49:11.420Z | INFO | index.log | Backend server is running! | data: {"abcd":"def"}
+2023-08-27T12:49:11.420Z | INFO | index.log | Backend server is running! | data: {"abcd":"def"}
+2023-08-27T12:49:13.224Z | INFO | index.log | Backend server is running! | data: {"abcd":"def"}
+2023-08-27T12:49:13.224Z | INFO | index.log | Backend server is running! | data: {"abcd":"def"}
+2023-08-27T12:49:16.306Z | INFO | index.log | Backend server is running! | data: {"abcd":"def"}
+2023-08-27T12:49:16.306Z | INFO | index.log | Backend server is running! | data: {"abcd":"def"}
+2023-08-27T12:49:30.764Z | INFO | index.log | Backend server is running! | data: {"abcd":"def"}
+2023-08-27T12:49:30.764Z | INFO | index.log | Backend server is running! | data: {"abcd":"def"}
+2023-08-27T13:10:02.823Z | INFO | index.log | Backend server is running! | data: {"abcd":"def"}
+2023-08-27T13:10:02.823Z | INFO | index.log | Backend server is running! | data: {"abcd":"def"}
+2023-09-10T06:50:18.881Z | INFO | index.log | Backend server is running! | data: {"abcd":"def"}
+2023-09-10T06:50:18.881Z | INFO | index.log | Backend server is running! | data: {"abcd":"def"}
+2023-08-27T18:21:05.139Z | INFO | index.log | Backend server is running! | data: {"abcd":"def"}
+2023-08-27T18:21:05.139Z | INFO | index.log | Backend server is running! | data: {"abcd":"def"}
+2023-08-27T18:21:27.892Z | INFO | index.log | Backend server is running! | data: {"abcd":"def"}
+2023-08-27T18:21:27.892Z | INFO | index.log | Backend server is running! | data: {"abcd":"def"}
+2023-08-27T18:21:55.962Z | INFO | index.log | Backend server is running! | data: {"abcd":"def"}
+2023-08-27T18:21:55.962Z | INFO | index.log | Backend server is running! | data: {"abcd":"def"}
+2023-08-27T18:22:00.156Z | INFO | index.log | Backend server is running! | data: {"abcd":"def"}
+2023-08-27T18:22:00.157Z | INFO | index.log | Backend server is running! | data: {"abcd":"def"}
+2023-08-27T18:22:09.694Z | INFO | index.log | Backend server is running! | data: {"abcd":"def"}
+2023-08-27T18:22:09.694Z | INFO | index.log | Backend server is running! | data: {"abcd":"def"}
+2023-08-27T18:22:20.752Z | INFO | index.log | Backend server is running! | data: {"abcd":"def"}
+2023-08-27T18:22:20.752Z | INFO | index.log | Backend server is running! | data: {"abcd":"def"}
+2023-08-27T18:22:21.393Z | INFO | index.log | Backend server is running! | data: {"abcd":"def"}
+2023-08-27T18:22:21.393Z | INFO | index.log | Backend server is running! | data: {"abcd":"def"}
+2023-08-27T18:22:43.675Z | INFO | index.log | Backend server is running on port | data: {"abcd":"def"}
+2023-08-27T18:22:43.675Z | INFO | index.log | Backend server is running on port | data: {"abcd":"def"}
+2023-08-27T18:22:45.036Z | INFO | index.log | Backend server is running on port  | data: {"abcd":"def"}
+2023-08-27T18:22:45.036Z | INFO | index.log | Backend server is running on port  | data: {"abcd":"def"}
+2023-08-27T18:22:52.175Z | INFO | index.log | Backend server is running on port  | data: {"abcd":"def"}
+2023-08-27T18:22:52.175Z | INFO | index.log | Backend server is running on port  | data: {"abcd":"def"}
+2023-08-27T18:22:57.196Z | INFO | index.log | Server is running on port  | data: {"abcd":"def"}
+2023-08-27T18:22:57.196Z | INFO | index.log | Server is running on port  | data: {"abcd":"def"}
+2023-08-27T18:23:01.235Z | INFO | index.log | Server is running on port:  | data: {"abcd":"def"}
+2023-08-27T18:23:01.235Z | INFO | index.log | Server is running on port:  | data: {"abcd":"def"}
+2023-08-27T18:23:06.932Z | INFO | index.log | Server is running on port: undefined | data: {"abcd":"def"}
+2023-08-27T18:23:06.932Z | INFO | index.log | Server is running on port: undefined | data: {"abcd":"def"}
+2023-08-27T18:23:20.650Z | INFO | index.log | Server is running on port: [object Object] | data: {"abcd":"def"}
+2023-08-27T18:23:20.650Z | INFO | index.log | Server is running on port: [object Object] | data: {"abcd":"def"}
+2023-08-27T18:23:28.552Z | INFO | index.log | Server is running on port: function stringify() { [native code] } | data: {"abcd":"def"}
+2023-08-27T18:23:28.552Z | INFO | index.log | Server is running on port: function stringify() { [native code] } | data: {"abcd":"def"}
+2023-08-27T18:23:30.350Z | INFO | index.log | Server is running on port: {"app":"SOCIAL_MEDIA_APP","env":"development","mongo":{"uri":"mongodb+srv://jnvudayju:UYy7xl9ifF63bPp2@cluster0.eruli5a.mongodb.net/?retryWrites=true&w=majority"},"jwt":{"secret":"abcd"}} | data: {"abcd":"def"}
+2023-08-27T18:23:30.350Z | INFO | index.log | Server is running on port: {"app":"SOCIAL_MEDIA_APP","env":"development","mongo":{"uri":"mongodb+srv://jnvudayju:UYy7xl9ifF63bPp2@cluster0.eruli5a.mongodb.net/?retryWrites=true&w=majority"},"jwt":{"secret":"abcd"}} | data: {"abcd":"def"}
+2023-08-27T18:24:19.582Z | INFO | index.log | Server is running on port: {"app":"SOCIAL_MEDIA_APP","port":"8000","env":"development","mongo":{"uri":"mongodb+srv://jnvudayju:UYy7xl9ifF63bPp2@cluster0.eruli5a.mongodb.net/?retryWrites=true&w=majority"},"jwt":{"secret":"abcd"}} | data: {"abcd":"def"}
+2023-08-27T18:24:31.512Z | INFO | index.log | Server is running on port: 8000 | data: {"abcd":"def"}
+2023-08-27T18:24:55.446Z | INFO | index.log | Server is running on port: 8000 | data: {"abcd":"def"}
+2023-08-27T18:25:10.253Z | INFO | index.log | Server is running on port: 8000
+2023-08-27T18:25:30.466Z | INFO | index.log | Server is running on port: 8000
+2023-08-27T18:25:31.400Z | INFO | index.log | Server is running on port: 8000
+2023-08-27T18:25:32.958Z | INFO | index.log | Server is running on port: 8000
+2023-08-27T18:25:36.129Z | INFO | index.log | Server is running on port: 8000
+2023-08-27T18:26:13.805Z | INFO | index.log | Server is running on port: 8000
+2023-08-27T18:26:19.089Z | INFO | index.log | Server is running on port: 8000
+2023-08-27T18:26:23.529Z | INFO | index.log | Server is running on port: 8000
+2023-08-27T18:26:25.404Z | INFO | index.log | Server is running on port: 8000
+2023-08-27T18:26:40.511Z | INFO | index.log | Server is running on port: 8000
+2023-08-27T18:26:47.019Z | INFO | index.log | Server is running on port: 8000
+2023-08-27T18:26:50.835Z | INFO | index.log | Server is running on port: 8000
+2023-08-27T18:26:53.709Z | INFO | index.log | Server is running on port: 8000
+2023-08-27T18:26:57.960Z | INFO | index.log | Server is running on port: 8000
+2023-08-27T18:27:00.380Z | INFO | index.log | Server is running on port: 8000
+2023-08-27T18:27:03.776Z | INFO | index.log | Server is running on port: 8000
+2023-08-27T18:27:07.704Z | INFO | index.log | Server is running on port: 8000
+2023-08-27T18:27:09.254Z | INFO | index.log | Server is running on port: 8000
+2023-08-27T18:27:12.236Z | INFO | index.log | Server is running on port: 8000
+2023-08-27T18:27:28.332Z | INFO | index.log | Server is running on port: 8000
+2023-08-27T18:27:30.146Z | INFO | index.log | Server is running on port: 8000
+2023-08-27T18:27:34.807Z | INFO | index.log | Server is running on port: 8000
+2023-08-27T18:27:41.618Z | INFO | index.log | Server is running on port: 8000
+2023-08-27T18:27:43.094Z | INFO | index.log | Server is running on port: 8000
+2023-08-27T18:27:45.624Z | INFO | index.log | Server is running on port: 8000
+2023-08-27T18:27:48.097Z | INFO | index.log | Server is running on port: 8000
+2023-08-27T18:27:51.504Z | INFO | index.log | Server is running on port: 8000
+2023-08-27T18:27:54.348Z | INFO | index.log | Server is running on port: 8000
+2023-08-27T18:27:56.487Z | INFO | index.log | Server is running on port: 8000
+2023-08-27T18:27:57.525Z | INFO | index.log | Server is running on port: 8000
+2023-08-27T19:11:52.493Z | INFO | index.log | Server is running on port: 8000
+2023-08-27T19:12:01.784Z | INFO | index.log | Server is running on port: 8000
+2023-08-27T19:12:10.495Z | INFO | index.log | Server is running on port: 8000
+2023-08-27T19:12:15.463Z | INFO | index.log | Server is running on port: 8000
+2023-08-27T19:12:17.469Z | INFO | index.log | Server is running on port: 8000
+2023-08-27T19:12:22.197Z | INFO | index.log | Server is running on port: 8000
+2023-08-27T19:12:25.069Z | INFO | index.log | Server is running on port: 8000
+2023-08-27T19:12:26.256Z | INFO | index.log | Server is running on port: 8000
+2023-08-27T19:12:31.174Z | INFO | index.log | Server is running on port: 8000
+2023-08-27T19:12:37.080Z | INFO | index.log | Server is running on port: 8000
+2023-08-27T19:12:39.064Z | INFO | index.log | Server is running on port: 8000
+2023-08-27T19:12:42.724Z | INFO | index.log | Server is running on port: 8000
+2023-08-27T19:12:49.679Z | INFO | index.log | Server is running on port: 8000
+2023-08-27T19:12:51.066Z | INFO | index.log | Server is running on port: 8000
+2023-08-27T19:12:54.136Z | INFO | index.log | Server is running on port: 8000
+2023-08-27T19:12:58.862Z | INFO | index.log | Server is running on port: 8000
+2023-08-27T19:13:02.348Z | INFO | index.log | Server is running on port: 8000
+2023-08-27T19:13:04.778Z | INFO | index.log | Server is running on port: 8000
+2023-08-27T19:13:05.840Z | INFO | index.log | Server is running on port: 8000
+2023-08-27T19:13:09.248Z | INFO | index.log | Server is running on port: 8000
+2023-08-27T19:13:14.591Z | INFO | index.log | Server is running on port: 8000
+2023-08-27T19:13:17.481Z | INFO | index.log | Server is running on port: 8000
+2023-08-27T19:13:25.540Z | INFO | index.log | Server is running on port: 8000
+2023-08-27T19:13:31.389Z | INFO | index.log | Server is running on port: 8000
+2023-08-27T19:13:32.406Z | INFO | index.log | Server is running on port: 8000
+2023-08-27T19:13:35.889Z | INFO | index.log | Server is running on port: 8000
+2023-08-27T19:13:42.211Z | INFO | index.log | Server is running on port: 8000
+2023-08-27T19:13:43.676Z | INFO | index.log | Server is running on port: 8000
+2023-08-27T19:13:47.370Z | INFO | index.log | Server is running on port: 8000
+2023-08-27T19:13:49.190Z | INFO | index.log | Server is running on port: 8000
+2023-08-27T19:13:55.766Z | INFO | index.log | Server is running on port: 8000
+2023-08-27T19:13:58.748Z | INFO | index.log | Server is running on port: 8000
+2023-08-27T19:14:01.267Z | INFO | index.log | Server is running on port: 8000
+2023-08-27T19:14:03.074Z | INFO | index.log | Server is running on port: 8000
+2023-08-27T19:14:03.461Z | INFO | index.log | Server is running on port: 8000
+2023-08-27T19:14:32.903Z | INFO | index.log | Server is running on port: 8000
+2023-08-27T19:15:47.551Z | INFO | index.log | Server is running on port: 8000
+2023-08-27T19:15:52.662Z | INFO | index.log | Server is running on port: 8000
+2023-08-27T19:16:02.620Z | INFO | index.log | Server is running on port: 8000
+2023-08-27T19:16:06.861Z | INFO | index.log | Server is running on port: 8000
+2023-08-27T19:16:08.470Z | INFO | index.log | Server is running on port: 8000
+2023-08-27T19:16:12.302Z | INFO | index.log | Server is running on port: 8000
+2023-08-27T19:16:15.212Z | INFO | index.log | Server is running on port: 8000
+2023-08-27T19:16:18.831Z | INFO | index.log | Server is running on port: 8000
+2023-08-27T19:16:28.996Z | INFO | index.log | Server is running on port: 8000
+2023-08-27T19:16:30.577Z | INFO | index.log | Server is running on port: 8000
+2023-08-27T19:16:34.200Z | INFO | index.log | Server is running on port: 8000
+2023-08-27T19:16:36.472Z | INFO | index.log | Server is running on port: 8000
+2023-08-27T19:16:38.817Z | INFO | index.log | Server is running on port: 8000
+2023-08-27T19:16:52.887Z | INFO | index.log | Server is running on port: 8000
+2023-08-27T19:17:05.984Z | INFO | index.log | Server is running on port: 8000
+2023-08-27T19:17:08.560Z | INFO | index.log | Server is running on port: 8000
+2023-08-27T19:17:10.191Z | INFO | index.log | Server is running on port: 8000
+2023-08-27T19:17:10.779Z | INFO | index.log | Server is running on port: 8000
+2023-08-27T19:17:44.182Z | INFO | index.log | Server is running on port: 8000
+2023-08-27T19:17:48.368Z | INFO | index.log | Server is running on port: 8000
+2023-08-27T19:17:55.591Z | INFO | index.log | Server is running on port: 8000
+2023-08-27T19:18:00.585Z | INFO | index.log | Server is running on port: 8000
+2023-08-27T19:18:02.190Z | INFO | index.log | Server is running on port: 8000
+2023-08-27T19:18:05.603Z | INFO | index.log | Server is running on port: 8000
+2023-08-27T19:18:09.818Z | INFO | index.log | Server is running on port: 8000
+2023-08-27T19:18:11.043Z | INFO | index.log | Server is running on port: 8000
+2023-08-27T19:18:16.560Z | INFO | index.log | Server is running on port: 8000
+2023-08-27T19:18:19.144Z | INFO | index.log | Server is running on port: 8000
+2023-08-27T19:18:20.453Z | INFO | index.log | Server is running on port: 8000
+2023-08-27T19:18:28.752Z | INFO | index.log | Server is running on port: 8000
+2023-08-27T19:19:13.390Z | INFO | index.log | Server is running on port: 8000
+2023-08-27T19:19:18.293Z | INFO | index.log | Server is running on port: 8000
+2023-08-27T19:19:23.756Z | INFO | index.log | Server is running on port: 8000
+2023-08-27T19:19:29.535Z | INFO | index.log | Server is running on port: 8000
+2023-08-27T19:19:35.913Z | INFO | index.log | Server is running on port: 8000
+2023-08-27T19:19:37.391Z | INFO | index.log | Server is running on port: 8000
+2023-08-27T19:20:09.495Z | INFO | index.log | Server is running on port: 8000
+2023-08-27T19:20:11.764Z | INFO | index.log | Server is running on port: 8000
+2023-08-27T19:20:13.299Z | INFO | index.log | Server is running on port: 8000
+2023-08-27T19:20:17.437Z | INFO | index.log | Server is running on port: 8000
+2023-08-27T19:21:16.464Z | INFO | index.log | Server is running on port: 8000
+2023-08-27T19:21:17.818Z | INFO | index.log | Server is running on port: 8000
+2023-08-27T19:21:20.559Z | INFO | index.log | Server is running on port: 8000
+2023-08-27T19:21:23.251Z | INFO | index.log | Connected to MongoDB
+2023-08-27T19:21:57.045Z | INFO | index.log | Server is running on port: 8000
+2023-08-27T19:21:59.603Z | INFO | index.log | Connected to MongoDB
+2023-08-27T19:22:01.698Z | INFO | index.log | Server is running on port: 8000
+2023-08-27T19:22:02.655Z | INFO | index.log | Server is running on port: 8000
+2023-08-27T19:22:05.235Z | INFO | index.log | Connected to MongoDB
+2023-08-27T19:22:10.322Z | INFO | index.log | Server is running on port: 8000
+2023-08-27T19:22:13.221Z | INFO | index.log | Connected to MongoDB
+2023-08-27T19:22:15.258Z | INFO | index.log | Server is running on port: 8000
+2023-08-27T19:22:17.830Z | INFO | index.log | Connected to MongoDB
+2023-08-27T19:22:19.928Z | INFO | index.log | Server is running on port: 8000
+2023-08-27T19:22:22.649Z | INFO | index.log | Connected to MongoDB
+2023-08-27T19:22:25.491Z | INFO | index.log | Server is running on port: 8000
+2023-08-27T19:22:28.099Z | INFO | index.log | Connected to MongoDB
+2023-08-27T19:22:31.670Z | INFO | index.log | Server is running on port: 8000
+2023-08-27T19:22:34.360Z | INFO | index.log | Connected to MongoDB
+2023-08-27T19:22:55.852Z | INFO | index.log | Server is running on port: 8000
+2023-08-27T19:23:13.833Z | INFO | index.log | Server is running on port: 8000
+2023-08-27T19:23:16.515Z | INFO | index.log | Connected to MongoDB
+2023-08-27T19:23:24.899Z | INFO | index.log | Server is running on port: 8000
+2023-08-27T19:23:27.671Z | INFO | index.log | Connected to MongoDB
+2023-08-27T19:23:28.458Z | INFO | index.log | Server is running on port: 8000
+2023-08-27T19:23:31.280Z | INFO | index.log | Server is running on port: 8000
+2023-08-27T19:23:34.025Z | INFO | index.log | Connected to MongoDB
+2023-08-27T19:23:38.914Z | INFO | index.log | Server is running on port: 8000
+2023-08-27T19:23:41.703Z | INFO | index.log | Connected to MongoDB
+2023-08-27T19:23:43.482Z | INFO | index.log | Server is running on port: 8000
+2023-08-27T19:23:46.314Z | INFO | index.log | Connected to MongoDB
+2023-08-27T19:23:48.211Z | INFO | index.log | Server is running on port: 8000
+2023-08-27T19:23:50.856Z | INFO | index.log | Connected to MongoDB
+2023-08-27T19:27:17.429Z | INFO | index.log | Server is running on port: 8000
+2023-08-27T19:27:20.244Z | INFO | index.log | Connected to MongoDB
+2023-08-27T19:27:28.945Z | INFO | index.log | Server is running on port: 8000
+2023-08-27T19:27:29.922Z | INFO | index.log | Server is running on port: 8000
+2023-08-27T19:27:31.021Z | INFO | index.log | Server is running on port: 8000
+2023-08-27T19:27:33.574Z | INFO | index.log | Server is running on port: 8000
+2023-08-27T19:27:35.940Z | INFO | index.log | Server is running on port: 8000
+2023-08-27T19:27:38.777Z | INFO | index.log | Connected to MongoDB
+2023-08-27T19:28:02.083Z | INFO | index.log | Server is running on port: 8000
+2023-08-27T19:28:09.831Z | INFO | index.log | Server is running on port: 8000
+2023-08-27T19:28:12.583Z | INFO | index.log | Connected to MongoDB
+2023-08-27T19:28:15.350Z | INFO | index.log | Server is running on port: 8000
+2023-08-27T19:28:18.040Z | INFO | index.log | Connected to MongoDB
+2023-08-27T19:28:23.580Z | INFO | index.log | Server is running on port: 8000
+2023-08-27T19:28:26.199Z | INFO | index.log | Connected to MongoDB
+2023-08-27T19:28:26.620Z | INFO | index.log | Server is running on port: 8000
+2023-08-27T19:28:28.636Z | INFO | index.log | Server is running on port: 8000
+2023-08-27T19:28:31.308Z | INFO | index.log | Connected to MongoDB
+2023-08-27T19:28:33.499Z | INFO | index.log | Server is running on port: 8000
+2023-08-27T19:28:36.222Z | INFO | index.log | Connected to MongoDB
+2023-08-27T19:28:56.026Z | INFO | index.log | Server is running on port: 8000
+2023-08-27T19:28:58.959Z | INFO | index.log | Connected to MongoDB
+2023-08-27T19:29:01.060Z | INFO | index.log | Server is running on port: 8000
+2023-08-27T19:29:02.827Z | INFO | index.log | Server is running on port: 8000
+2023-08-27T19:29:05.586Z | INFO | index.log | Connected to MongoDB
+2023-08-27T19:29:07.956Z | INFO | index.log | Server is running on port: 8000
+2023-08-27T19:29:10.737Z | INFO | index.log | Connected to MongoDB
+2023-08-27T19:29:15.818Z | INFO | index.log | Server is running on port: 8000
+2023-08-27T19:29:18.606Z | INFO | index.log | Connected to MongoDB
+2023-08-27T19:29:29.044Z | INFO | index.log | Server is running on port: 8000
+2023-08-27T19:29:31.830Z | INFO | index.log | Connected to MongoDB
+2023-08-27T19:29:33.404Z | INFO | index.log | Server is running on port: 8000
+2023-08-27T19:29:36.129Z | INFO | index.log | Connected to MongoDB
+2023-08-27T19:29:39.627Z | INFO | index.log | Server is running on port: 8000
+2023-08-27T19:29:42.380Z | INFO | index.log | Connected to MongoDB
+2023-08-27T19:29:48.093Z | INFO | index.log | Server is running on port: 8000
+2023-08-27T19:29:50.944Z | INFO | index.log | Connected to MongoDB
+2023-08-27T19:30:04.082Z | INFO | index.log | Server is running on port: 8000
+2023-08-27T19:30:05.629Z | INFO | index.log | Server is running on port: 8000
+2023-08-27T19:30:08.404Z | INFO | index.log | Connected to MongoDB
+2023-08-27T19:30:20.144Z | INFO | index.log | Server is running on port: 8000
+2023-08-27T19:30:22.873Z | INFO | index.log | Connected to MongoDB
+2023-08-27T19:30:23.995Z | INFO | index.log | Server is running on port: 8000
+2023-08-27T19:30:24.418Z | INFO | index.log | Server is running on port: 8000
+2023-08-27T19:30:27.235Z | INFO | index.log | Connected to MongoDB
+2023-08-27T19:30:31.926Z | INFO | index.log | Server is running on port: 8000
+2023-08-27T19:30:34.712Z | INFO | index.log | Connected to MongoDB
+2023-08-27T19:30:37.892Z | INFO | index.log | Server is running on port: 8000
+2023-08-27T19:30:40.627Z | INFO | index.log | Server is running on port: 8000
+2023-08-27T19:30:43.414Z | INFO | index.log | Connected to MongoDB
+2023-08-27T19:30:49.438Z | INFO | index.log | Server is running on port: 8000
+2023-08-27T19:30:52.219Z | INFO | index.log | Connected to MongoDB
+2023-08-27T19:30:56.490Z | INFO | index.log | Server is running on port: 8000
+2023-08-27T19:30:59.285Z | INFO | index.log | Connected to MongoDB
+2023-08-27T19:31:01.638Z | INFO | index.log | Server is running on port: 8000
+2023-08-27T19:31:04.513Z | INFO | index.log | Connected to MongoDB
+2023-08-27T19:31:08.441Z | INFO | index.log | Server is running on port: 8000
+2023-08-27T19:31:08.900Z | INFO | index.log | Server is running on port: 8000
+2023-08-27T19:31:11.683Z | INFO | index.log | Connected to MongoDB
+2023-08-27T19:31:45.470Z | INFO | index.log | Server is running on port: 8000
+2023-08-27T19:31:48.963Z | INFO | index.log | Server is running on port: 8000
+2023-08-27T19:31:51.926Z | INFO | index.log | Connected to MongoDB
+2023-08-27T19:32:10.821Z | INFO | index.log | Server is running on port: 8000
+2023-08-27T19:32:12.077Z | INFO | index.log | Server is running on port: 8000
+2023-08-27T19:32:14.510Z | INFO | index.log | Server is running on port: 8000
+2023-08-27T19:32:17.318Z | INFO | index.log | Connected to MongoDB
+2023-08-27T19:32:18.127Z | INFO | index.log | Server is running on port: 8000
+2023-08-27T19:32:20.803Z | INFO | index.log | Connected to MongoDB
+2023-08-27T19:32:22.466Z | INFO | index.log | Server is running on port: 8000
+2023-08-27T19:32:24.947Z | INFO | index.log | Connected to MongoDB
+2023-08-27T19:32:47.777Z | INFO | index.log | Server is running on port: 8000
+2023-08-27T19:32:49.986Z | INFO | index.log | Server is running on port: 8000
+2023-08-27T19:32:52.700Z | INFO | index.log | Connected to MongoDB
+2023-08-27T19:32:53.730Z | INFO | index.log | Server is running on port: 8000
+2023-08-27T19:32:55.817Z | INFO | index.log | Server is running on port: 8000
+2023-08-27T19:32:58.604Z | INFO | index.log | Server is running on port: 8000
+2023-08-27T19:33:01.168Z | INFO | index.log | Connected to MongoDB
+2023-08-27T19:33:05.892Z | INFO | index.log | Server is running on port: 8000
+2023-08-27T19:33:08.513Z | INFO | index.log | Connected to MongoDB
+2023-08-27T19:33:13.802Z | INFO | index.log | Server is running on port: 8000
+2023-08-27T19:33:16.433Z | INFO | index.log | Connected to MongoDB
+2023-08-27T19:33:28.604Z | INFO | index.log | Server is running on port: 8000
+2023-08-27T19:33:31.364Z | INFO | index.log | Connected to MongoDB
+2023-08-27T19:33:36.783Z | INFO | index.log | Server is running on port: 8000
+2023-08-27T19:33:39.549Z | INFO | index.log | Connected to MongoDB
+2023-08-27T19:33:48.059Z | INFO | index.log | Server is running on port: 8000
+2023-08-27T19:33:50.715Z | INFO | index.log | Connected to MongoDB
+2023-08-27T19:33:52.474Z | INFO | index.log | Server is running on port: 8000
+2023-08-27T19:33:55.132Z | INFO | index.log | Connected to MongoDB
+2023-08-27T19:34:03.091Z | INFO | index.log | Server is running on port: 8000
+2023-08-27T19:34:06.077Z | INFO | index.log | Connected to MongoDB
+2023-08-27T19:34:06.654Z | INFO | index.log | Server is running on port: 8000
+2023-08-27T19:34:07.663Z | INFO | index.log | Server is running on port: 8000
+2023-08-27T19:34:10.381Z | INFO | index.log | Connected to MongoDB
+2023-08-27T19:34:34.285Z | INFO | index.log | Server is running on port: 8000
+2023-08-27T19:34:36.902Z | INFO | index.log | Connected to MongoDB
+2023-08-27T19:34:37.461Z | INFO | index.log | Server is running on port: 8000
+2023-08-27T19:34:39.445Z | INFO | index.log | Server is running on port: 8000
+2023-08-27T19:34:42.330Z | INFO | index.log | Connected to MongoDB
+2023-08-27T19:34:49.511Z | INFO | index.log | Server is running on port: 8000
+2023-08-27T19:34:52.257Z | INFO | index.log | Connected to MongoDB
+2023-08-27T19:34:54.040Z | INFO | index.log | Server is running on port: 8000
+2023-08-27T19:34:55.916Z | INFO | index.log | Server is running on port: 8000
+2023-08-27T19:34:58.818Z | INFO | index.log | Connected to MongoDB
+2023-08-27T19:35:38.018Z | INFO | index.log | Server is running on port: 8000
+2023-08-27T19:35:40.926Z | INFO | index.log | Connected to MongoDB
+2023-08-27T19:36:12.371Z | INFO | index.log | Server is running on port: 8000
+2023-08-27T19:36:26.992Z | INFO | index.log | Server is running on port: 8000
+2023-08-27T19:36:29.534Z | INFO | index.log | Connected to MongoDB
+2023-08-27T19:36:29.775Z | INFO | index.log | Server is running on port: 8000
+2023-08-27T19:36:31.235Z | INFO | index.log | Server is running on port: 8000
+2023-08-27T19:36:33.637Z | INFO | index.log | Server is running on port: 8000
+2023-08-27T19:36:36.427Z | INFO | index.log | Connected to MongoDB
+2023-08-27T19:36:48.167Z | INFO | index.log | Server is running on port: 8000
+2023-08-27T19:36:50.869Z | INFO | index.log | Connected to MongoDB
+2023-08-27T19:37:21.190Z | INFO | index.log | Server is running on port: 8000
+2023-08-27T19:37:22.216Z | INFO | index.log | Server is running on port: 8000
+2023-08-27T19:37:25.067Z | INFO | index.log | Connected to MongoDB
+2023-08-27T19:37:28.762Z | INFO | index.log | Server is running on port: 8000
+2023-08-27T19:37:31.415Z | INFO | index.log | Connected to MongoDB
+2023-08-27T19:37:45.019Z | INFO | index.log | Server is running on port: 8000
+2023-08-27T19:37:46.021Z | INFO | index.log | Server is running on port: 8000
+2023-08-27T19:37:48.015Z | INFO | index.log | Server is running on port: 8000
+2023-08-27T19:37:50.668Z | INFO | index.log | Connected to MongoDB
+2023-08-27T19:37:51.683Z | INFO | index.log | Server is running on port: 8000
+2023-08-27T19:37:54.565Z | INFO | index.log | Connected to MongoDB
+2023-08-27T19:38:10.924Z | INFO | index.log | Server is running on port: 8000
+2023-08-27T19:38:13.816Z | INFO | index.log | Connected to MongoDB
+2023-08-27T19:38:31.395Z | INFO | index.log | Server is running on port: 8000
+2023-08-27T19:38:34.321Z | INFO | index.log | Server is running on port: 8000
+2023-08-27T19:38:36.958Z | INFO | index.log | Connected to MongoDB
+2023-08-27T19:38:37.379Z | INFO | index.log | Server is running on port: 8000
+2023-08-27T19:38:39.925Z | INFO | index.log | Connected to MongoDB
+2023-08-27T19:38:57.735Z | INFO | index.log | Server is running on port: 8000
+2023-08-27T19:39:00.427Z | INFO | index.log | Connected to MongoDB
+2023-08-27T19:39:07.291Z | INFO | index.log | Server is running on port: 8000
+2023-08-27T19:39:09.886Z | INFO | index.log | Connected to MongoDB
+2023-08-27T19:39:11.374Z | INFO | index.log | Server is running on port: 8000
+2023-08-27T19:39:14.125Z | INFO | index.log | Connected to MongoDB
+2023-08-27T19:39:14.449Z | INFO | index.log | Server is running on port: 8000
+2023-08-27T19:39:16.424Z | INFO | index.log | Server is running on port: 8000
+2023-08-27T19:39:17.787Z | INFO | index.log | Server is running on port: 8000
+2023-08-27T19:39:20.479Z | INFO | index.log | Connected to MongoDB
+2023-08-27T19:39:34.686Z | INFO | index.log | Server is running on port: 8000
+2023-08-27T19:39:42.120Z | INFO | index.log | Server is running on port: 8000
+2023-08-27T19:39:43.577Z | INFO | index.log | Server is running on port: 8000
+2023-08-27T19:39:45.508Z | INFO | index.log | Server is running on port: 8000
+2023-08-27T19:39:48.158Z | INFO | index.log | Connected to MongoDB
+2023-08-27T19:39:48.552Z | INFO | index.log | Server is running on port: 8000
+2023-08-27T19:39:51.245Z | INFO | index.log | Connected to MongoDB
+2023-08-27T19:39:53.325Z | INFO | index.log | Server is running on port: 8000
+2023-08-27T19:39:57.044Z | INFO | index.log | Connected to MongoDB
+2023-08-27T19:39:58.647Z | INFO | index.log | Server is running on port: 8000
+2023-08-27T19:40:00.259Z | INFO | index.log | Server is running on port: 8000
+2023-08-27T19:40:02.973Z | INFO | index.log | Connected to MongoDB
+2023-08-27T19:40:07.070Z | INFO | index.log | Server is running on port: 8000
+2023-08-27T19:40:09.411Z | INFO | index.log | Server is running on port: 8000
+2023-08-27T19:40:12.035Z | INFO | index.log | Connected to MongoDB
+2023-08-27T19:40:14.391Z | INFO | index.log | Server is running on port: 8000
+2023-08-27T19:40:16.186Z | INFO | index.log | Server is running on port: 8000
+2023-08-27T19:40:17.586Z | INFO | index.log | Server is running on port: 8000
+2023-08-27T19:40:19.445Z | INFO | index.log | Server is running on port: 8000
+2023-08-27T19:40:22.155Z | INFO | index.log | Connected to MongoDB
+2023-08-27T19:40:27.792Z | INFO | index.log | Server is running on port: 8000
+2023-08-27T19:40:30.435Z | INFO | index.log | Server is running on port: 8000
+2023-08-27T19:40:33.180Z | INFO | index.log | Connected to MongoDB
+2023-08-27T19:40:38.329Z | INFO | index.log | Server is running on port: 8000
+2023-08-27T19:40:41.063Z | INFO | index.log | Connected to MongoDB
+2023-08-27T19:40:46.502Z | INFO | index.log | Server is running on port: 8000
+2023-08-27T19:40:48.718Z | INFO | index.log | Server is running on port: 8000
+2023-08-27T19:40:51.423Z | INFO | index.log | Connected to MongoDB
+2023-08-27T19:41:05.698Z | INFO | index.log | Server is running on port: 8000
+2023-08-27T19:41:08.411Z | INFO | index.log | Connected to MongoDB
+2023-08-27T19:41:49.378Z | INFO | index.log | Server is running on port: 8000
+2023-08-27T19:41:51.019Z | INFO | index.log | Server is running on port: 8000
+2023-08-27T19:41:52.774Z | INFO | index.log | Server is running on port: 8000
+2023-08-27T19:41:55.468Z | INFO | index.log | Connected to MongoDB
+2023-08-27T19:41:56.100Z | INFO | index.log | Server is running on port: 8000
+2023-08-27T19:41:58.890Z | INFO | index.log | Connected to MongoDB
+2023-08-27T19:42:07.201Z | INFO | index.log | Server is running on port: 8000
+2023-08-27T19:42:09.953Z | INFO | index.log | Connected to MongoDB
+2023-08-27T19:42:12.488Z | INFO | index.log | Server is running on port: 8000
+2023-08-27T19:42:15.466Z | INFO | index.log | Server is running on port: 8000
+2023-08-27T19:42:18.305Z | INFO | index.log | Server is running on port: 8000
+2023-08-27T19:42:20.712Z | INFO | index.log | Server is running on port: 8000
+2023-08-27T19:42:21.431Z | INFO | index.log | Server is running on port: 8000
+2023-08-27T19:42:24.189Z | INFO | index.log | Connected to MongoDB
+2023-08-27T19:42:35.174Z | INFO | index.log | Server is running on port: 8000
+2023-08-27T19:42:43.537Z | INFO | index.log | Connected to MongoDB
+2023-08-27T19:42:45.257Z | INFO | index.log | Server is running on port: 8000
+2023-08-27T19:42:47.944Z | INFO | index.log | Connected to MongoDB
+2023-08-27T19:43:04.102Z | INFO | index.log | Server is running on port: 8000
+2023-08-27T19:43:06.890Z | INFO | index.log | Connected to MongoDB
+2023-08-27T19:43:20.388Z | INFO | index.log | Server is running on port: 8000
+2023-08-27T19:43:22.024Z | INFO | index.log | Server is running on port: 8000
+2023-08-27T19:43:24.909Z | INFO | index.log | Connected to MongoDB
+2023-08-27T19:43:26.578Z | INFO | index.log | Server is running on port: 8000
+2023-08-27T19:43:29.316Z | INFO | index.log | Connected to MongoDB
+2023-08-27T19:43:43.852Z | INFO | index.log | Server is running on port: 8000
+2023-08-27T19:43:45.434Z | INFO | index.log | Server is running on port: 8000
+2023-08-27T19:43:52.729Z | INFO | index.log | Server is running on port: 8000
+2023-08-27T19:43:55.601Z | INFO | index.log | Server is running on port: 8000
+2023-08-27T19:43:58.276Z | INFO | index.log | Connected to MongoDB
+2023-08-27T19:44:03.713Z | INFO | index.log | Server is running on port: 8000
+2023-08-27T19:44:06.468Z | INFO | index.log | Server is running on port: 8000
+2023-08-27T19:44:09.355Z | INFO | index.log | Connected to MongoDB
+2023-08-27T19:44:23.317Z | INFO | index.log | Server is running on port: 8000
+2023-08-27T19:44:25.942Z | INFO | index.log | Connected to MongoDB
+2023-08-27T19:44:34.853Z | INFO | index.log | Server is running on port: 8000
+2023-08-27T19:44:37.613Z | INFO | index.log | Connected to MongoDB
+2023-08-27T19:44:38.242Z | INFO | index.log | Server is running on port: 8000
+2023-08-27T19:44:41.100Z | INFO | index.log | Connected to MongoDB
+2023-08-27T19:44:43.723Z | INFO | index.log | Server is running on port: 8000
+2023-08-27T19:44:45.094Z | INFO | index.log | Server is running on port: 8000
+2023-08-27T19:44:47.956Z | INFO | index.log | Connected to MongoDB
+2023-08-27T19:44:54.477Z | INFO | index.log | Server is running on port: 8000
+2023-08-27T19:44:56.054Z | INFO | index.log | Server is running on port: 8000
+2023-08-27T19:45:04.043Z | INFO | index.log | Server is running on port: 8000
+2023-08-27T19:45:05.935Z | INFO | index.log | Server is running on port: 8000
+2023-08-27T19:45:08.850Z | INFO | index.log | Connected to MongoDB
+2023-08-27T19:45:31.718Z | INFO | index.log | Server is running on port: 8000
+2023-08-27T19:45:34.452Z | INFO | index.log | Connected to MongoDB
+2023-08-27T19:46:00.903Z | INFO | index.log | Server is running on port: 8000
+2023-08-27T19:46:03.689Z | INFO | index.log | Connected to MongoDB
+2023-08-27T19:47:22.252Z | INFO | index.log | Server is running on port: 8000
+2023-08-27T19:47:24.918Z | INFO | index.log | Connected to MongoDB
+2023-08-27T19:47:31.602Z | INFO | index.log | Server is running on port: 8000
+2023-08-27T19:47:34.153Z | INFO | index.log | Connected to MongoDB
+2023-08-27T19:47:35.013Z | INFO | index.log | Server is running on port: 8000
+2023-08-27T19:47:37.946Z | INFO | index.log | Connected to MongoDB
+2023-08-27T19:47:44.105Z | INFO | index.log | Server is running on port: 8000
+2023-08-27T19:47:46.957Z | INFO | index.log | Connected to MongoDB
+2023-08-27T19:48:00.134Z | INFO | index.log | Server is running on port: 8000
+2023-08-27T19:48:08.015Z | INFO | index.log | Connected to MongoDB
+2023-08-27T19:48:34.931Z | INFO | index.log | Server is running on port: 8000
+2023-08-27T19:48:37.597Z | INFO | index.log | Connected to MongoDB
+2023-08-27T19:48:40.890Z | INFO | index.log | Server is running on port: 8000
+2023-08-27T19:48:43.581Z | INFO | index.log | Connected to MongoDB
+2023-08-27T19:48:47.422Z | INFO | index.log | Server is running on port: 8000
+2023-08-27T19:48:50.136Z | INFO | index.log | Connected to MongoDB
+2023-08-27T19:48:53.456Z | INFO | index.log | Server is running on port: 8000
+2023-08-27T19:48:54.945Z | INFO | index.log | Server is running on port: 8000
+2023-08-27T19:48:56.420Z | INFO | index.log | Server is running on port: 8000
+2023-08-27T19:48:59.211Z | INFO | index.log | Connected to MongoDB
+2023-08-27T19:49:26.746Z | INFO | index.log | Server is running on port: 8000
+2023-08-27T19:49:29.463Z | INFO | index.log | Connected to MongoDB
+2023-08-27T19:49:33.637Z | INFO | index.log | Server is running on port: 8000
+2023-08-27T19:49:36.421Z | INFO | index.log | Connected to MongoDB
+2023-08-27T19:49:54.257Z | INFO | index.log | Server is running on port: 8000
+2023-08-27T19:49:57.004Z | INFO | index.log | Connected to MongoDB
+2023-08-27T19:50:21.068Z | INFO | index.log | Server is running on port: 8000
+2023-08-27T19:50:24.044Z | INFO | index.log | Connected to MongoDB
+2023-08-27T20:30:04.251Z | INFO | index.log | Server is running on port: 8000
+2023-08-27T20:30:05.621Z | INFO | index.log | Server is running on port: 8000
+2023-08-27T20:30:08.440Z | INFO | index.log | Connected to MongoDB
+2023-08-27T20:30:11.476Z | INFO | index.log | Server is running on port: 8000
+2023-08-27T20:30:12.996Z | INFO | index.log | Server is running on port: 8000
+2023-08-27T20:30:15.716Z | INFO | index.log | Connected to MongoDB
+2023-08-27T20:30:31.478Z | INFO | index.log | Server is running on port: 8000
+2023-08-27T20:30:34.321Z | INFO | index.log | Connected to MongoDB
+2023-08-27T20:31:12.903Z | INFO | index.log | Server is running on port: 8000
+2023-08-27T20:31:15.709Z | INFO | index.log | Connected to MongoDB
+2023-08-27T20:31:15.966Z | INFO | index.log | Server is running on port: 8000
+2023-08-27T20:31:18.156Z | INFO | index.log | Server is running on port: 8000
+2023-08-27T20:31:21.187Z | INFO | index.log | Server is running on port: 8000
+2023-08-27T20:31:22.657Z | INFO | index.log | Server is running on port: 8000
+2023-08-27T20:31:25.451Z | INFO | index.log | Connected to MongoDB
+2023-08-27T20:31:26.215Z | INFO | index.log | Server is running on port: 8000
+2023-08-27T20:31:29.861Z | INFO | index.log | Server is running on port: 8000
+2023-08-27T20:31:32.521Z | INFO | index.log | Connected to MongoDB
+2023-08-27T20:31:33.022Z | INFO | index.log | Server is running on port: 8000
+2023-08-27T20:31:34.270Z | INFO | index.log | Server is running on port: 8000
+2023-08-27T20:31:44.533Z | INFO | index.log | Server is running on port: 8000
+2023-08-27T20:31:47.122Z | INFO | index.log | Connected to MongoDB
+2023-08-27T20:31:54.181Z | INFO | index.log | Server is running on port: 8000
+2023-08-27T20:31:56.688Z | INFO | index.log | Connected to MongoDB
+2023-08-27T20:32:43.572Z | INFO | index.log | Server is running on port: 8000
+2023-08-27T20:32:46.269Z | INFO | index.log | Connected to MongoDB
+2023-08-27T20:32:47.678Z | INFO | index.log | Server is running on port: 8000
+2023-08-27T20:32:48.710Z | INFO | index.log | Server is running on port: 8000
+2023-08-27T20:32:50.902Z | INFO | index.log | Server is running on port: 8000
+2023-08-27T20:32:53.497Z | INFO | index.log | Connected to MongoDB
+2023-08-27T20:32:56.507Z | INFO | index.log | Server is running on port: 8000
+2023-08-27T20:32:58.834Z | INFO | index.log | Server is running on port: 8000
+2023-08-27T20:33:01.454Z | INFO | index.log | Connected to MongoDB
+2023-08-27T20:33:03.742Z | INFO | index.log | Server is running on port: 8000
+2023-08-27T20:33:05.984Z | INFO | index.log | Server is running on port: 8000
+2023-08-27T20:33:08.516Z | INFO | index.log | Connected to MongoDB
+2023-08-27T20:33:13.435Z | INFO | index.log | Server is running on port: 8000
+2023-08-27T20:33:16.039Z | INFO | index.log | Connected to MongoDB
+2023-08-27T20:33:35.562Z | INFO | index.log | Server is running on port: 8000
+2023-08-27T20:33:38.173Z | INFO | index.log | Connected to MongoDB
+2023-08-27T20:34:01.199Z | INFO | index.log | Server is running on port: 8000
+2023-08-27T20:34:02.177Z | INFO | index.log | Server is running on port: 8000
+2023-08-27T20:34:04.745Z | INFO | index.log | Connected to MongoDB
+2023-08-27T20:34:16.892Z | INFO | index.log | Server is running on port: 8000
+2023-08-27T20:34:19.457Z | INFO | index.log | Connected to MongoDB
+2023-08-27T20:34:22.743Z | INFO | index.log | Server is running on port: 8000
+2023-08-27T20:34:25.337Z | INFO | index.log | Connected to MongoDB
+2023-08-27T20:34:32.105Z | INFO | index.log | Server is running on port: 8000
+2023-08-27T20:34:34.731Z | INFO | index.log | Connected to MongoDB
+2023-08-27T20:38:01.012Z | INFO | index.log | Server is running on port: 8000
+2023-08-27T20:38:03.773Z | INFO | index.log | Connected to MongoDB
+2023-08-27T20:38:05.355Z | INFO | index.log | Server is running on port: 8000
+2023-08-27T20:38:08.116Z | INFO | index.log | Connected to MongoDB
+2023-08-27T20:38:15.917Z | INFO | index.log | Server is running on port: 8000
+2023-08-27T20:38:18.578Z | INFO | index.log | Connected to MongoDB
+2023-08-27T20:38:55.573Z | INFO | index.log | Server is running on port: 8000
+2023-08-27T20:38:57.687Z | INFO | index.log | Server is running on port: 8000
+2023-08-27T20:39:00.452Z | INFO | index.log | Connected to MongoDB
+2023-08-27T20:39:13.394Z | INFO | index.log | Server is running on port: 8000
+2023-08-27T20:39:14.320Z | INFO | index.log | Server is running on port: 8000
+2023-08-27T20:39:16.988Z | INFO | index.log | Connected to MongoDB
+2023-08-27T20:39:42.453Z | INFO | index.log | Server is running on port: 8000
+2023-08-27T20:39:45.096Z | INFO | index.log | Connected to MongoDB
+2023-08-27T20:39:57.664Z | INFO | index.log | Server is running on port: 8000
+2023-08-27T20:40:00.253Z | INFO | index.log | Connected to MongoDB
+2023-08-27T20:40:00.947Z | INFO | index.log | Server is running on port: 8000
+2023-08-27T20:40:03.581Z | INFO | index.log | Connected to MongoDB
+2023-08-27T20:40:05.870Z | INFO | index.log | Server is running on port: 8000
+2023-08-27T20:40:08.447Z | INFO | index.log | Connected to MongoDB
+2023-08-27T20:40:12.649Z | INFO | index.log | Server is running on port: 8000
+2023-08-27T20:40:15.218Z | INFO | index.log | Connected to MongoDB
+2023-08-27T20:41:05.593Z | INFO | index.log | Server is running on port: 8000
+2023-08-27T20:41:08.459Z | INFO | index.log | Connected to MongoDB
+2023-08-27T20:41:41.311Z | INFO | index.log | Server is running on port: 8000
+2023-08-27T20:41:43.785Z | INFO | index.log | Connected to MongoDB
+2023-08-27T20:41:49.493Z | INFO | index.log | Server is running on port: 8000
+2023-08-27T20:41:52.081Z | INFO | index.log | Connected to MongoDB
+2023-08-27T20:42:18.898Z | INFO | index.log | Server is running on port: 8000
+2023-08-27T20:42:21.297Z | INFO | index.log | Server is running on port: 8000
+2023-08-27T20:42:22.311Z | INFO | index.log | Server is running on port: 8000
+2023-08-27T20:43:04.860Z | INFO | index.log | Server is running on port: 8000
+2023-08-27T20:43:07.510Z | INFO | index.log | Server is running on port: 8000
+2023-08-27T20:43:08.524Z | INFO | index.log | Server is running on port: 8000
+2023-08-27T20:43:11.190Z | INFO | index.log | Connected to MongoDB
+2023-08-27T20:43:15.689Z | INFO | index.log | Server is running on port: 8000
+2023-08-27T20:43:32.463Z | INFO | index.log | Server is running on port: 8000
+2023-08-27T20:43:35.268Z | INFO | index.log | Connected to MongoDB
+2023-08-27T20:43:56.872Z | INFO | index.log | Server is running on port: 8000
+2023-08-27T20:43:59.509Z | INFO | index.log | Connected to MongoDB
+2023-08-27T20:44:21.312Z | INFO | index.log | Server is running on port: 8000
+2023-08-27T20:44:23.996Z | INFO | index.log | Connected to MongoDB
+2023-08-27T20:44:40.459Z | INFO | index.log | Server is running on port: 8000
+2023-08-27T20:44:43.099Z | INFO | index.log | Connected to MongoDB
+2023-08-27T20:45:07.342Z | INFO | index.log | Server is running on port: 8000
+2023-08-27T20:45:08.269Z | INFO | index.log | Server is running on port: 8000
+2023-08-27T20:45:10.948Z | INFO | index.log | Connected to MongoDB
+2023-08-27T20:46:06.832Z | INFO | index.log | Server is running on port: 8000
+2023-08-27T20:46:10.979Z | INFO | index.log | Server is running on port: 8000
+2023-08-27T20:46:13.386Z | INFO | index.log | Server is running on port: 8000
+2023-08-27T20:47:12.971Z | INFO | index.log | Server is running on port: 8000
+2023-08-27T20:47:15.576Z | INFO | index.log | Connected to MongoDB
+2023-08-27T20:47:27.055Z | INFO | index.log | Server is running on port: 8000
+2023-08-27T20:47:29.596Z | INFO | index.log | Server is running on port: 8000
+2023-08-27T20:47:34.419Z | INFO | index.log | Server is running on port: 8000
+2023-08-27T20:47:35.991Z | INFO | index.log | Server is running on port: 8000
+2023-08-27T20:47:38.718Z | INFO | index.log | Connected to MongoDB
+2023-08-27T20:47:46.911Z | INFO | index.log | Server is running on port: 8000
+2023-08-27T20:47:49.613Z | INFO | index.log | Connected to MongoDB
+2023-08-27T20:47:51.236Z | INFO | index.log | Server is running on port: 8000
+2023-08-27T20:47:53.758Z | INFO | index.log | Connected to MongoDB
+2023-08-27T20:48:00.322Z | INFO | index.log | Server is running on port: 8000
+2023-08-27T20:48:03.038Z | INFO | index.log | Connected to MongoDB
+2023-08-27T20:48:04.209Z | INFO | index.log | Server is running on port: 8000
+2023-08-27T20:48:06.801Z | INFO | index.log | Connected to MongoDB
+2023-08-27T20:48:07.129Z | INFO | index.log | Server is running on port: 8000
+2023-08-27T20:48:09.691Z | INFO | index.log | Connected to MongoDB
+2023-08-27T20:48:14.059Z | INFO | index.log | Server is running on port: 8000
+2023-08-27T20:48:16.568Z | INFO | index.log | Server is running on port: 8000
+2023-08-27T20:48:19.071Z | INFO | index.log | Connected to MongoDB
+2023-08-27T20:48:20.531Z | INFO | index.log | Server is running on port: 8000
+2023-08-27T20:48:33.341Z | INFO | index.log | Server is running on port: 8000
+2023-08-27T20:48:35.091Z | INFO | index.log | Server is running on port: 8000
+2023-08-27T20:48:37.656Z | INFO | index.log | Connected to MongoDB
+2023-08-27T20:48:57.740Z | INFO | index.log | Server is running on port: 8000
+2023-08-27T20:49:00.384Z | INFO | index.log | Connected to MongoDB
+2023-08-27T20:49:01.839Z | INFO | index.log | Server is running on port: 8000
+2023-08-27T20:49:07.678Z | INFO | index.log | Server is running on port: 8000
+2023-08-27T20:49:10.474Z | INFO | index.log | Connected to MongoDB
+2023-08-27T20:49:17.096Z | INFO | index.log | Server is running on port: 8000
+2023-08-27T20:49:19.738Z | INFO | index.log | Connected to MongoDB
+2023-08-27T20:49:32.941Z | INFO | index.log | Server is running on port: 8000
+2023-08-27T20:49:35.301Z | INFO | index.log | Server is running on port: 8000
+2023-08-27T20:49:37.934Z | INFO | index.log | Connected to MongoDB
+2023-08-27T20:49:52.131Z | INFO | index.log | Server is running on port: 8000
+2023-08-27T20:49:54.701Z | INFO | index.log | Connected to MongoDB
+2023-08-27T20:49:57.582Z | INFO | index.log | Server is running on port: 8000
+2023-08-27T20:50:00.240Z | INFO | index.log | Connected to MongoDB
+2023-08-27T20:50:12.283Z | INFO | index.log | Server is running on port: 8000
+2023-08-27T20:50:14.740Z | INFO | index.log | Connected to MongoDB
+2023-08-27T20:50:15.519Z | INFO | index.log | Server is running on port: 8000
+2023-08-27T20:50:18.190Z | INFO | index.log | Connected to MongoDB
+2023-08-27T20:50:25.462Z | INFO | index.log | Server is running on port: 8000
+2023-08-27T20:50:28.016Z | INFO | index.log | Connected to MongoDB
+2023-08-27T20:50:44.965Z | INFO | index.log | Server is running on port: 8000
+2023-08-27T20:50:47.159Z | INFO | index.log | Server is running on port: 8000
+2023-08-27T20:50:50.032Z | INFO | index.log | Server is running on port: 8000
+2023-08-27T20:50:53.052Z | INFO | index.log | Server is running on port: 8000
+2023-08-27T20:50:55.608Z | INFO | index.log | Connected to MongoDB
+2023-08-27T20:51:03.299Z | INFO | index.log | Server is running on port: 8000
+2023-08-27T20:51:05.870Z | INFO | index.log | Connected to MongoDB
+2023-09-16T19:23:29.193Z | INFO | index.log | Server is running on port: 8000
+2023-09-16T19:23:32.230Z | INFO | index.log | Connected to MongoDB
